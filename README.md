@@ -11,3 +11,6 @@ conda install pytorch::pytorch torchvision torchaudio -c pytorch
 conda install matplotlib
 pip install torch-cluster torch-scatter torch-sparse torch-spline_conv -f https://pytorch-geometric.com/whl/torch-2.3.1+cpu.html
 pip install torch-geometric
+
+# SOTA
+https://paperswithcode.com/sota/node-classification-on-cora
